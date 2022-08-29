@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="odps-data" />
+        <module name="odps_data_easy" />
         <module name="odps-data -easy" />
       </profile>
     </annotationProcessing>
